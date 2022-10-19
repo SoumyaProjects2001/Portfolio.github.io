@@ -1,0 +1,53 @@
+body{
+    background: var(--dark);
+}
+
+section{
+    padding: 5rem 4rem 0;
+}
+
+.container{
+    max-width: 1300px;
+}
+
+.act-div{
+    max-width: 800px;
+    margin-bottom: 70px;
+}
+
+.act-div-v{
+    margin-left: 550px;
+    width: 800px;
+}
+
+#act-1 h1{
+    color: var(--pure);
+    font-size: 45px;
+    margin: 40px;
+}
+
+#act-1 p{
+    color: var(--light);
+    font-size: 18px;
+}
+
+#act-2{
+    padding: 0 3rem 0;
+    margin-left: 50px;
+}
+
+#act-2 h2{
+    font-size: 60px;
+    color: var(--pure);
+    margin-bottom: 15px;
+}
+
+#act-2 h4{
+    margin-bottom: 50px;
+    color: var(--ternary);
+    font-size: 45px;
+}
+
+#act-2 p{
+    color: var(--light);
+}
